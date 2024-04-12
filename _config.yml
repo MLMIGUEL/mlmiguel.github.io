@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG-20230804-WA0000.jpg"
+  avatar           : "profile.png"
   name             : "Mario Leocadio-Miguel"
   pronouns         : # example: "she/her"  
   bio              : "Chronobiology, Sleep Science and mental health"
   location         : "Newcastle upon Tyne"
-  employer         : "https://researchportal.northumbria.ac.uk/en/persons/mario-miguel/?_gl=1*1qjcyr8*_ga*MTYzMjEyNDguMTY5MDg5MTY1OQ..*_ga_GZ3Q7PNF2K*MTcxMjkxNTU3NS43OS4wLjE3MTI5MTU2MjQuMTEuMC4w"
+  employer         : "Northumbria University"
   uri              : # URL
   email            : #" " 
 
